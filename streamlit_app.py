@@ -14,7 +14,7 @@ icon.show_icon(":foggy:")
 st.markdown("# :rainbow[Text-to-Image Artistry Studio]")
 
 # Токены API и конечные точки из файла `.streamlit/secrets.toml`
-REPLICATE_API_TOKEN = st.secrets["REPLICATE_API_TOKEN"]
+REPLICATE_API_TOKEN = st.secrets["r8_W3gxzPKhTzULGXKQfHXVMIyFRkqr7634AzmTI"]
 REPLICATE_MODEL_ENDPOINTSTABILITY = st.secrets["REPLICATE_MODEL_ENDPOINTSTABILITY"]
 
 # Текст ресурсов, ссылка и логотип
