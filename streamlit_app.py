@@ -20,7 +20,7 @@ REPLICATE_MODEL_ENDPOINTSTABILITY = st.secrets["REPLICATE_MODEL_ENDPOINTSTABILIT
 # Resources text, link, and logo
 replicate_text = "Модель Stability AI SDXL на Replicate"
 replicate_link = "https://replicate.com/stability-ai/sdxl"
-replicate_logo = "https://storage.googleapis.com/llama2_release/Screen%20Shot%202023-07-21%20at%2012.34.05%20PM.png"
+replicate_logo = "https://www.google.com/url?sa=i&url=http%3A%2F%2Fpmk.tversu.ru%2F&psig=AOvVaw1xi7XD-U1eiWcipZNkoJo_&ust=1720186538667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiJ0a7AjYcDFQAAAAAdAAAAABAE"
 
 # Placeholders for images and gallery
 generated_images_placeholder = st.empty()
