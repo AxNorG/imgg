@@ -20,7 +20,7 @@ REPLICATE_MODEL_ENDPOINTSTABILITY = st.secrets["REPLICATE_MODEL_ENDPOINTSTABILIT
 # Resources text, link, and logo
 replicate_text = "Модель Stability AI SDXL на Replicate"
 replicate_link = "https://replicate.com/stability-ai/sdxl"
-replicate_logo = "http://pmk.tversu.ru/img/TvGU_logo.png"
+replicate_logo = "gallery/TvGU_logo.png"
 
 # Placeholders for images and gallery
 generated_images_placeholder = st.empty()
