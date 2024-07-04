@@ -20,7 +20,7 @@ REPLICATE_MODEL_ENDPOINTSTABILITY = st.secrets["REPLICATE_MODEL_ENDPOINTSTABILIT
 # Resources text, link, and logo
 replicate_text = "Модель Stability AI SDXL на Replicate"
 replicate_link = "https://replicate.com/stability-ai/sdxl"
-replicate_logo = "../gallery/TvGU_logo.png"
+replicate_logo = "/gallery/TvGU_logo.png"
 
 # Placeholders for images and gallery
 generated_images_placeholder = st.empty()
@@ -184,7 +184,7 @@ def main_page(submitted: bool, width: int, height: int, num_outputs: int,
         img = image_select(
             label="Понравилось? Сохраните! 😉",
             images=[
-                "gallery/TvGU_logo.png", "gallery/astro_on_unicorn.png",
+                "gallery/farmer_sunset.png", "gallery/astro_on_unicorn.png",
                 "gallery/friends.png", "gallery/wizard.png", "gallery/puppy.png",
                 "gallery/cheetah.png", "gallery/viking.png",
             ],
