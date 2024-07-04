@@ -184,7 +184,7 @@ def main_page(submitted: bool, width: int, height: int, num_outputs: int,
         img = image_select(
             label="Понравилось? Сохраните! 😉",
             images=[
-                "gallery/farmer_sunset.png", "gallery/astro_on_unicorn.png",
+                "gallery/TvGU_logo.png", "gallery/astro_on_unicorn.png",
                 "gallery/friends.png", "gallery/wizard.png", "gallery/puppy.png",
                 "gallery/cheetah.png", "gallery/viking.png",
             ],
